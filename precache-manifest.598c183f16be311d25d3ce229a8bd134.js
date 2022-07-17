@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a48df5a9aa9cbad966a7b7ab0792d38a",
+    "revision": "0c711a858527cf222d5230cfdd1c0e65",
     "url": "/react-tours.git/index.html"
   },
   {
-    "revision": "ce50f259624211f2dde5",
+    "revision": "af079c3ce4f560177902",
     "url": "/react-tours.git/static/css/main.7b074604.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-tours.git/static/js/2.d8a71053.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce50f259624211f2dde5",
-    "url": "/react-tours.git/static/js/main.54a2c966.chunk.js"
+    "revision": "af079c3ce4f560177902",
+    "url": "/react-tours.git/static/js/main.573b747f.chunk.js"
   },
   {
     "revision": "a3f056c3ac787824705f",
