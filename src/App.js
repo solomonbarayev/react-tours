@@ -36,7 +36,9 @@ function App() {
         <Loading />
       ) : (
         <div>
-          <h2 className="title">Our Tours</h2>
+          <h2 className="title">
+            {data.length === 0 ? "No Tours Left" : "Our Tours"}
+          </h2>
           <div className="underline"></div>
         </div>
       )}
